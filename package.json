@@ -8,8 +8,8 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://docs.google.com",
-    "hasNotificationSound": true,
-    "hasDirectMessages": true,
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
     "openDevTools": true
   }
 }
